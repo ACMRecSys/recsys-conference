@@ -17,11 +17,11 @@ Papers may be considered out-of-scope if they do not clearly argue this contribu
 
 ## Desk Rejection Criteria
 Reviewers are invited to flag papers that they believe may be candidates for desk rejection (i.e., rejection without full review). Reviewers should communicate such issues to the paper’s meta-reviewer, who will advise as to whether a full review is required. Criteria for desk rejection include:
-Papers that are outside the conference scope, that are incomplete, or that fail to claim a contribution to the field, present evidence, or discuss the prior work relevant to their contribution.  
-Papers that violate formatting guidelines, in particular those that exceed the page limit.
-Papers that do not describe original work or are under review elsewhere (including as another paper submission for RecSys); note that papers previously published in workshop proceedings may be submitted to RecSys only if the submission includes at least 30% new content.
-Papers that are not properly anonymized to enable mutually anonymous review.  
-Papers that are found to include plagiarized content.  
+- Papers that are outside the conference scope, that are incomplete, or that fail to claim a contribution to the field, present evidence, or discuss the prior work relevant to their contribution.  
+- Papers that violate formatting guidelines, in particular those that exceed the page limit.
+- Papers that do not describe original work or are under review elsewhere (including as another paper submission for RecSys); note that papers previously published in workshop proceedings may be submitted to RecSys only if the submission includes at least 30% new content.
+- Papers that are not properly anonymized to enable mutually anonymous review.  
+- Papers that are found to include plagiarized content.  
 
 ## Mutually Anonymous Review
 RecSys reviewing is mutually anonymous (double-blind).  Authors do not know the identity of their reviewers, and reviewers do not know the identity of the authors. The responsibility for double-blind review is a shared one between authors and reviewers:
